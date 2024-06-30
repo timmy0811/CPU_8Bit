@@ -1,1 +1,6 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=ALU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=Interrupt_Handler.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=Microcrode_ROM.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=ProgramCounter.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=REG_CTRL.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=Stack_Ptr.SchDoc|SheetNumber=5
