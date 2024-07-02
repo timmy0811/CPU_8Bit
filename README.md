@@ -2,7 +2,7 @@
 <img align="left" src="https://github.com/timmy0811/Monty08/blob/Projects/Img/logo.png" width="200" height="200">
 
 # The Monty08 Microprocessor
-An 8 Bit Accumulator Processor featuring a Microcode-ALU. First built in LogiSim -> then on Breadboard! The file ```Monty08.xlsx``` features the ISA and all microcode programming. There is also a non-microcode ALU-Version that is more efficient in some aspects and easyier to build.
+An 8 Bit Accumulator Processor featuring a Microcode-ALU. First built in LogiSim -> then on Breadboard! The file ```Monty08.xlsx``` features the ISA and all microcode programming. There is also a non-microcode ALU-Version that is more efficient in some aspects and easier to rebuild.
 
 ## How to use
 This project uses the latest (but old) version of default Logisim to simulate all functionalities. To open the project yourself: open the ```CPU.circ``` file inside Logisim. -> Future versions of the .circ files will use this fork to add additional components: [Logisim ITA](https://github.com/Logisim-Ita/Logisim)
